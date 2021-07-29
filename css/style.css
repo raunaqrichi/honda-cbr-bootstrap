@@ -1,0 +1,19 @@
+.bg-color{
+    background-color: #264653;
+}
+.btn-color{
+    background-color: #E76F51;
+    color: white;
+}
+.txt-color{
+    color: #E76F51;
+}
+.img-clr {
+    filter: grayscale(100%);
+  }
+  .fa-star{
+      color:  #E77C40;
+  }
+  .name{
+      color: #23A6F0;
+  }
